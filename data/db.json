@@ -1,0 +1,22 @@
+{
+  "todos": [
+    {
+      "id": 0.8863307264070672,
+      "title": "lista de compras",
+      "time": "15min",
+      "done": true
+    },
+    {
+      "id": 0.08272795570102254,
+      "title": "Estudar React",
+      "time": "6",
+      "done": false
+    },
+    {
+      "id": 0.9982883968706715,
+      "title": "Dormir",
+      "time": "7",
+      "done": false
+    }
+  ]
+}
